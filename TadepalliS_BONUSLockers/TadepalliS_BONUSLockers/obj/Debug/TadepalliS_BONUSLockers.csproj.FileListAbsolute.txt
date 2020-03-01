@@ -1,0 +1,6 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\bin\Debug\TadepalliS_BONUSLockers.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\bin\Debug\TadepalliS_BONUSLockers.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\bin\Debug\TadepalliS_BONUSLockers.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\obj\Debug\TadepalliS_BONUSLockers.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\obj\Debug\TadepalliS_BONUSLockers.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLockers\TadepalliS_BONUSLockers\obj\Debug\TadepalliS_BONUSLockers.pdb

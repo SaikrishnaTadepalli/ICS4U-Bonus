@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadepalliS_BONUSLockers", "TadepalliS_BONUSLockers\TadepalliS_BONUSLockers.csproj", "{CD70B974-BAEA-4A26-874F-54F1A56BF7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD70B974-BAEA-4A26-874F-54F1A56BF7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD70B974-BAEA-4A26-874F-54F1A56BF7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD70B974-BAEA-4A26-874F-54F1A56BF7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD70B974-BAEA-4A26-874F-54F1A56BF7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F95B7D-0D9C-4C53-B005-9CA16D691A9D}
+	EndGlobalSection
+EndGlobal
