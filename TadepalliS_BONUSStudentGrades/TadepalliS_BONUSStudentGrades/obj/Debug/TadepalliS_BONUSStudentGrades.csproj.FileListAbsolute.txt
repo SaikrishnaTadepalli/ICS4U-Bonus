@@ -1,0 +1,10 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\bin\Debug\TadepalliS_BONUSStudentGrades.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\bin\Debug\TadepalliS_BONUSStudentGrades.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\bin\Debug\TadepalliS_BONUSStudentGrades.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.frmMain.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSStudentGrades\TadepalliS_BONUSStudentGrades\obj\Debug\TadepalliS_BONUSStudentGrades.frmDistribution.resources
