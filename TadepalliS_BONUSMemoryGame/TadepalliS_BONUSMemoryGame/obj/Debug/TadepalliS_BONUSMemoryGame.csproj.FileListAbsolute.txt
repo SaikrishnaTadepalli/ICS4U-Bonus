@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\bin\Debug\TadepalliS_BONUSMemoryGame.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\bin\Debug\TadepalliS_BONUSMemoryGame.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\bin\Debug\TadepalliS_BONUSMemoryGame.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.Form1.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSMemoryGame\TadepalliS_BONUSMemoryGame\obj\Debug\TadepalliS_BONUSMemoryGame.pdb
