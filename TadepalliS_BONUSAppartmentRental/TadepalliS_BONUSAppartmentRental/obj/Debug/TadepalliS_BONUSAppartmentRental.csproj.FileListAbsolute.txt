@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.frmMain.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\bin\Debug\TadepalliS_BONUSAppartmentRental.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\bin\Debug\TadepalliS_BONUSAppartmentRental.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\bin\Debug\TadepalliS_BONUSAppartmentRental.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAppartmentRental\TadepalliS_BONUSAppartmentRental\obj\Debug\TadepalliS_BONUSAppartmentRental.pdb
