@@ -1,0 +1,12 @@
+TeamName. Rating. Wins. Ties. Losses. Goals. Points.
+
+Man City (Rating: 8/10) Stats:                    Wins - . 06. Ties - 02. Losses - 01. Total Goals - 19. Points - 20
+Liverpool (Rating: 10/10) Stats:                  Wins - . 06. Ties - 02. Losses - 01. Total Goals - 27. Points - 20
+Chelsea (Rating: 7/10) Stats:                     Wins - . 06. Ties - 01. Losses - 02. Total Goals - 12. Points - 19
+Newcastle United (Rating: 6/10) Stats:            Wins - . 04. Ties - 02. Losses - 03. Total Goals - 11. Points - 14
+Southampton (Rating: 5/10) Stats:                 Wins - . 03. Ties - 02. Losses - 04. Total Goals - 13. Points - 11
+Arsenal (Rating: 6/10) Stats:                     Wins - . 03. Ties - 01. Losses - 05. Total Goals - 08. Points - 10
+Watford (Rating: 6/10) Stats:                     Wins - . 03. Ties - 01. Losses - 05. Total Goals - 07. Points - 10
+Leicester (Rating: 6/10) Stats:                   Wins - . 03. Ties - 01. Losses - 05. Total Goals - 08. Points - 10
+Man United (Rating: 7/10) Stats:                  Wins - . 02. Ties - 02. Losses - 05. Total Goals - 10. Points - 08
+Sheffield United (Rating: 7/10) Stats:            Wins - . 01. Ties - 02. Losses - 06. Total Goals - 07. Points - 05

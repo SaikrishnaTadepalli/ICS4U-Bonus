@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\bin\Debug\TadepalliS_EPL.exe.config
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\bin\Debug\TadepalliS_EPL.exe
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\bin\Debug\TadepalliS_EPL.pdb
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.frmMain.resources
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.Properties.Resources.resources
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.exe
+C:\Users\saikr\source\repos\TadepalliS_EPL\TadepalliS_EPL\obj\Debug\TadepalliS_EPL.pdb

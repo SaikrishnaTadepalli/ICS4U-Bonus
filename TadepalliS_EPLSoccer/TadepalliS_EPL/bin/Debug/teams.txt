@@ -1,0 +1,10 @@
+Arsenal*6
+Liverpool*10
+Man City*8
+Leicester*6
+Chelsea*7
+Man United*7
+Newcastle United*6
+Watford*6
+Southampton*5
+Sheffield United*7
