@@ -1,0 +1,6 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\bin\Debug\TadepalliS_BONUSPolling.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\bin\Debug\TadepalliS_BONUSPolling.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\bin\Debug\TadepalliS_BONUSPolling.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\obj\Debug\TadepalliS_BONUSPolling.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\obj\Debug\TadepalliS_BONUSPolling.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSPolling\TadepalliS_BONUSPolling\obj\Debug\TadepalliS_BONUSPolling.pdb
