@@ -1,0 +1,6 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\bin\Debug\TadepalliS_BONUSAdvancedPalindorme.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\bin\Debug\TadepalliS_BONUSAdvancedPalindorme.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\bin\Debug\TadepalliS_BONUSAdvancedPalindorme.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\obj\Debug\TadepalliS_BONUSAdvancedPalindorme.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\obj\Debug\TadepalliS_BONUSAdvancedPalindorme.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSAdvancedPalindorme\TadepalliS_BONUSAdvancedPalindorme\obj\Debug\TadepalliS_BONUSAdvancedPalindorme.pdb
