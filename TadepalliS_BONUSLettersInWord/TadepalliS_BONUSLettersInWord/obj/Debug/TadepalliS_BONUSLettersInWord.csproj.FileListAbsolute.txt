@@ -1,0 +1,9 @@
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\bin\Debug\TadepalliS_BONUSLettersInWord.exe.config
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\bin\Debug\TadepalliS_BONUSLettersInWord.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\bin\Debug\TadepalliS_BONUSLettersInWord.pdb
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.csprojAssemblyReference.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.frmMain.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.Properties.Resources.resources
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.csproj.GenerateResource.cache
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.exe
+C:\Users\saikr\source\repos\C#\TadepalliS_BONUSLettersInWord\TadepalliS_BONUSLettersInWord\obj\Debug\TadepalliS_BONUSLettersInWord.pdb
